@@ -21,7 +21,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/concurrencia"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="concurrencia" /></a></p><br><br>
-
+<p> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=concurr3ncia&show_icons=true&locale=en&layout=compact" alt="concurr3ncia" /></p>
 <p> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=concurr3ncia&show_icons=true&locale=en" alt="concurr3ncia" /></p>
