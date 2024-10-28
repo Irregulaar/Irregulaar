@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Concurrencia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Todo esta en ingles pero no se hablar ingles, curioso no?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=concurr3ncia&label=Profile%20views&color=0e75b6&style=flat" alt="concurr3ncia" /> </p>
 
