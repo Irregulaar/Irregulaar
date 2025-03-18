@@ -1,5 +1,3 @@
-<br />
-
 Holaa, soy Irregular.
 
 **Sobre mi**
