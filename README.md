@@ -27,7 +27,7 @@ const irregular = {
 
 <div align="center">
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; margin: 0 auto;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irregulaar&layout=compact&theme=radical" />
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Irregulaar&theme=radical&hide_border=false" />
+    <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irregulaar&layout=compact&theme=radical" />
+    <img height="200" width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=Irregulaar&theme=radical&hide_border=false" />
   </div>
 </div>
