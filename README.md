@@ -1,15 +1,33 @@
-Holaa, soy Irregular.
+<div align="center">
 
-**Sobre mi**
+# 👋 Hello World, I'm Irregular! 
+![GitHub followers](https://img.shields.io/github/followers/Irregulaar?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Irregulaar?style=for-the-badge)
 
-- 💼 Me gusta el frontend :)
+### Frontend Developer & UI Enthusiast
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+
+</div>
+
+## 🚀 About Me
+
+```javascript
+const irregular = {
+    role: "Frontend Developer",
+    code: ["JavaScript", "HTML", "CSS", "Python"],
+    tools: ["React", "Tailwind", "Vite"]
+}
+```
+
+## 📊 GitHub Stats
 
 
-<code><img height="30" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" alt="tailwind" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Irregulaar&show_icons=true&locale=es&layout=compact" alt="Irregulaar" /></p>
+<div align="center">
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; margin: 0 auto;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irregulaar&layout=compact&theme=radical" />
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Irregulaar&theme=radical&hide_border=false" />
+  </div>
+</div>
