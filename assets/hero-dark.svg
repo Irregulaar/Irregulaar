@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Irregular — Kevin Sanchez</title>
+  <desc id="desc">Frontend developer from Colombia. Interfaces, Linux and automation. Currently building NexusMacro.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0F14"/>
+      <stop offset="1" stop-color="#090C11"/>
+    </linearGradient>
+    <linearGradient id="word" x1="64" y1="120" x2="620" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EDE9FE"/>
+      <stop offset="0.42" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="64" y1="184" x2="176" y2="184" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#A78BFA" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowPurple">
+      <stop stop-color="#7C3AED" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan">
+      <stop stop-color="#06B6D4" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <clipPath id="clip">
+      <rect width="1200" height="320" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <circle cx="1020" cy="26" r="320" fill="url(#glowPurple)"/>
+    <circle cx="110" cy="330" r="300" fill="url(#glowCyan)"/>
+
+    <text x="64" y="84" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="4.5" fill="#8B949E">KEVIN SANCHEZ</text>
+
+    <text x="62" y="172" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-2" fill="url(#word)">IRREGULAAR</text>
+    <rect x="64" y="187" width="112" height="3" rx="1.5" fill="url(#accent)"/>
+
+    <text x="64" y="220" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500" fill="#C9D1D9">Frontend developer <tspan fill="#6E7681">/</tspan> Colombia</text>
+
+    <g transform="translate(64 246)">
+      <rect width="248" height="34" rx="17" fill="#111827" stroke="#30363D"/>
+      <circle cx="18" cy="17" r="4" fill="#22C55E"/>
+      <text x="32" y="22" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#C9D1D9">building NexusMacro</text>
+    </g>
+    <g transform="translate(326 246)">
+      <rect width="228" height="34" rx="17" fill="#111827" stroke="#30363D"/>
+      <text x="16" y="22" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8B949E">react · python · linux</text>
+    </g>
+
+    <g transform="translate(760 54)">
+      <rect width="380" height="212" rx="16" fill="#0E141D" stroke="#263041"/>
+      <path d="M0 34H380" stroke="#263041"/>
+      <circle cx="22" cy="17" r="4" fill="#FF5F57"/>
+      <circle cx="38" cy="17" r="4" fill="#FEBC2E"/>
+      <circle cx="54" cy="17" r="4" fill="#28C840"/>
+      <text x="72" y="21" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#6E7681">irregular@github: ~</text>
+
+      <text x="22" y="72" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#22D3EE">$ whoami</text>
+      <text x="22" y="92" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#E6EDF3">kevin sanchez</text>
+
+      <text x="22" y="122" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#22D3EE">$ cat focus.txt</text>
+      <text x="22" y="142" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#E6EDF3">interfaces · automation</text>
+
+      <text x="22" y="172" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#22D3EE">$ uptime</text>
+      <text x="22" y="192" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#E6EDF3">coding since mar 2025</text>
+      <rect x="218" y="180" width="8" height="15" rx="2" fill="#22D3EE"/>
+    </g>
+
+    <rect y="319" width="1200" height="1" fill="url(#line)"/>
+  </g>
+</svg>
