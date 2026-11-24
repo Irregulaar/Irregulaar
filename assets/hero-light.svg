@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Irregular — Kevin Sanchez</title>
-  <desc id="desc">Frontend developer from Colombia. Interfaces, Linux and automation. Currently building NexusMacro.</desc>
+  <desc id="desc">Frontend developer from Colombia. Interfaces, Linux and automation.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFFFFF"/>
@@ -50,9 +50,9 @@
     <text x="64" y="220" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500" fill="#334155">Frontend developer <tspan fill="#94A3B8">/</tspan> Colombia</text>
 
     <g transform="translate(64 246)">
-      <rect width="248" height="34" rx="17" fill="#F8FAFC" stroke="#CBD5E1"/>
+      <rect width="228" height="34" rx="17" fill="#F8FAFC" stroke="#CBD5E1"/>
       <circle cx="18" cy="17" r="4" fill="#16A34A"/>
-      <text x="32" y="22" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#334155">building NexusMacro</text>
+      <text x="32" y="22" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#334155">building small things</text>
     </g>
     <g transform="translate(326 246)">
       <rect width="228" height="34" rx="17" fill="#F8FAFC" stroke="#CBD5E1"/>

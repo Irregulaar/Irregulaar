@@ -20,30 +20,12 @@ Cuando no estoy peleándome con CSS, estoy automatizando cosas en Linux, mirando
 
 ## ⚡ Ahora
 
-- 🔭 **Construyendo** [NexusMacro](https://github.com/Irregulaar/NexusMacro) — un autopiloto para *Build a Tower Defense* en Linux, con Sober + gamescope y una UI en PySide6.
+- 🔭 **Construyendo** proyectos pequeños y aprendiendo en público.
 - 🌱 **Aprendiendo** React a fondo y dando el salto hacia full-stack.
 - 🧪 **Explorando** Linux, Wayland, X11 y automatizaciones que probablemente no necesito.
 - 🇨🇴 **Desde** Colombia.
 
-## 🚀 Proyecto actual
-
-<table>
-  <tr>
-    <td width="56%" valign="top">
-      <a href="https://github.com/Irregulaar/NexusMacro">
-        <img src="./assets/projects/nexusmacro.png" alt="NexusMacro — pantalla de conexión" width="100%">
-      </a>
-    </td>
-    <td width="44%" valign="top">
-      <h3>NexusMacro</h3>
-      <p>Un autopiloto para <em>Build a Tower Defense</em> en Linux. Corre Sober (Roblox) dentro de gamescope y maneja el juego a través de X11 sin tocar tu mouse, teclado ni foco.</p>
-      <p><code>Python</code> · <code>PySide6</code> · <code>X11</code> · <code>Wayland</code></p>
-      <p><a href="https://github.com/Irregulaar/NexusMacro">repo</a> · <a href="https://github.com/Irregulaar/NexusMacro/releases/latest">release</a></p>
-    </td>
-  </tr>
-</table>
-
-## 🧩 Otros proyectos
+## 🧩 Proyectos
 
 <table>
   <tr>
@@ -98,21 +80,6 @@ Cuando no estoy peleándome con CSS, estoy automatizando cosas en Linux, mirando
 </picture>
 
 Mi zona de confort es el frontend: **React**, **Tailwind** y **Vite**. Del otro lado, **Python** y **PySide6** para automatizar y construir herramientas de escritorio. También he tocado **Lua**, **SQL** y bastante **Linux** — suficiente como para saber cuándo culpar a Wayland.
-
-## 📊 GitHub en números
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Irregulaar&amp;theme=radical" alt="Resumen de GitHub de Irregulaar: contribuciones, repositorios y ubicación">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irregulaar&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;bg_color=0B0F14&amp;title_color=A78BFA&amp;text_color=C9D1D9" alt="Lenguajes más usados por Irregulaar">
-</div>
-
-## 🐍 Contribuciones
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Irregulaar/Irregulaar/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Irregulaar/Irregulaar/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/Irregulaar/Irregulaar/output/github-snake.svg" alt="Serpiente comiendo mis contribuciones" width="100%">
-</picture>
 
 <div align="center">
   <br>
