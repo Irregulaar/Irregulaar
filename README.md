@@ -81,8 +81,8 @@ Cuando no estoy peleándome con CSS, estoy automatizando cosas en Linux, mirando
     </td>
     <td width="50%" valign="top">
       <strong>También en el taller</strong><br><br>
-      <a href="https://simplestwebrpg.vercel.app">Simplest Web RPG</a> — un RPG jugable en el navegador, con combates y progresión.<br><br>
-      <a href="https://fake-social-media-eta.vercel.app">fake-social-media</a> — un experimento de UI con estética de Facebook/Twitter.<br><br>
+      <a href="https://sapobot.vercel.app">sapobot</a> — una versión personalizada de Lightbot para aprender lógica.<br><br>
+      <a href="https://github.com/Irregulaar/fake-social-media">fake-social-media</a> — una recreación de los chats de X y Messenger.<br><br>
       <a href="https://irregulaaar.vercel.app">portfolio-web</a> — mi portafolio, en versión sitio web.<br><br>
       <sub>Y varios experimentos privados que se quedan en el taller.</sub>
     </td>
